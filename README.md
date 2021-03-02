@@ -17,3 +17,9 @@
 - Q Prediction through minions
 - E Auto Killsteal, Auto before death, Jungle Steal, Lane Clear
 - R Auto Save Bound Ally
+
+# Utilities
+- Ward and Traps tracker, tracks (Teemo R, Shaco W, Jhin E, Cait W)
+- Turrets Range Draw
+- Orbwalker Stutter Fix
+- Skin Hack
