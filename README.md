@@ -1,5 +1,7 @@
 # es
 
+# Discord https://discord.gg/awjPwkTjAN
+
 # Ezreal
 - Q Usage, Combo, Harass, Lane Clear, Jungle Clear and Killsteal
 - W Usage, Combo, Harass, Structures and Jungle Clear
