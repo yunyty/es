@@ -4,7 +4,7 @@
 - https://discord.gg/awjPwkTjAN
 
 # Yone
-- Auto
+* Auto
  - Auto R if can hit X Targets
 - Combo
  - Q Usage AoE/Single prediction
