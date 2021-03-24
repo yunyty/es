@@ -2,7 +2,52 @@
 
 # Discord
 - https://discord.gg/awjPwkTjAN
-- 
+
+# Yone
+- Auto
+ - Auto R if can hit X Targets
+- Combo
+ - Q Usage AoE/Single prediction
+ - Q 3 Wind AoE/Single prediction
+ - Always Q Option 
+ - After Attack Q Option
+ - W Usage AoE/Single prediction
+ - W AoE hit count slider
+ - Always W Option
+ - After Attack W Option
+ - E1 Before Q3 Wind usage
+ - E1 Before R usage
+ - E1 & E2 Check for skillshots/turrets
+ - E2 Execute (Most Marked Targets, All Marked Targets or All Nearby Targets)
+ - R AoE Very Accurate with hit count slider
+- Harass
+ - Q Usage AoE/Single prediction
+ - Q 3 Wind AoE/Single prediction
+ - Always Q Option 
+ - After Attack Q Option
+ - W Usage AoE/Single prediction
+ - W AoE hit count slider
+ - Always W Option
+ - After Attack W Option
+- Lane/Jungle Clear
+ - Q (1&2) Last hit, Lane Clear, Nonkillable Minions
+ - Q 3 Wind Hit x Minions
+ - W Lane Clear Hit x Minions
+ - Q After Attack Jungle Clear
+ - W After Attack Jungle Clear
+- Killsteal
+ - Use Q
+ - Use W
+ - Use E2
+ - Use R
+- Damage & Range Drawing
+ - Draw Q
+ - Draw W
+ - Draw E
+ - Draw R
+- Spell Leveling
+- Custom Target Selector
+
 # Ezreal
 - Q Usage, Combo, Harass, Lane Clear, Jungle Clear and Killsteal
 - W Usage, Combo, Harass, Structures and Jungle Clear
