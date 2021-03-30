@@ -76,3 +76,4 @@
 - Kite Helper (Ranged Champions)
 - Orbwalker Magnet (Melee Champions)
 - FoW Tracker
+- Juke Tracker (Shaco Q, Flash)
