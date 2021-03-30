@@ -1,9 +1,7 @@
-## kAIO
-
-# Discord
+## Discord
 - https://discord.gg/awjPwkTjAN
 
-# Yone
+## Yone
 - Auto R if can hit X Champions
 - Q Usage AoE/Single prediction (Combo/Harass)
 - Q 3 Wind AoE/Single prediction (Combo/Harass)
@@ -28,13 +26,13 @@
 - Spell Leveling
 - Custom Target Selector
 
-# Ezreal
+## Ezreal
 - Q Usage, Combo, Harass, Lane Clear, Jungle Clear and Killsteal
 - W Usage, Combo, Harass, Structures and Jungle Clear
 - E Usage, Combo, Harass - Smart E > W proc and Calculations for Killsteal
 - R Usage Combo, AoE, Execute, Semi-Manual, Global jungle steal, base ult and Global recall Ult
 
-# Fiora
+## Fiora
 - Q usage on Vitals
 - W Block almost all skills in game from FoW (Empowered AA, Skillshots, Buffs etc)
 - E Fast AA Reset
@@ -43,14 +41,14 @@
 - Overrides Orbwalker Target for best Damage Output
 - Smart Harass Under Turret
 
-# Swain
+## Swain
 - Q AoE usage
 - W AoE and Global kill steal and jungle steal
 - E orbwalk to hit return part
 - R AoE start and Finish count, with charge counter
 - Smart Harass Under Turret
 
-# Kalista
+## Kalista
 - Q Prediction through minions
 - E Auto Killsteal, Auto before death, Jungle Steal
 - E Slow Enemies out of AA Range (Only when Can Reset)
@@ -62,12 +60,12 @@
 - Fly Exploit (Double Jumping above 2.0 Attack Speed)
 - Smart Harass Under Turret
 
-# Xayah
+## Xayah
 - Q Usage, Combo, Harass, Lane Clear, Jungle Clear and Killsteal
 - W Usage, Combo, Harass, Lane Clear, Structures, and Jungle Clear
 - E Usage, Combo, Harass, Lane Clear, Jungle Clear, Killsteal, Jungle Steal and Auto Snare
 
-# Utilities
+## Utilities
 - Ward and Traps tracker, tracks (Teemo R, Shaco W, Jhin E, Cait W)
 - Turrets Range Draw
 - Orbwalker Stutter Fix
