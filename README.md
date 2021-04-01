@@ -1,3 +1,5 @@
+# kAIO Version 1.0.0.5
+
 ## Discord
 - https://discord.gg/awjPwkTjAN
 
