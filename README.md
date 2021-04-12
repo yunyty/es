@@ -1,4 +1,4 @@
-# kAIO Version 1.0.0.5
+# kAIO Version 1.0.0.6
 
 ## Discord
 - https://discord.gg/awjPwkTjAN
@@ -33,6 +33,12 @@
 - W Usage, Combo, Harass, Structures and Jungle Clear
 - E Usage, Combo, Harass - Smart E > W proc and Calculations for Killsteal
 - R Usage Combo, AoE, Execute, Semi-Manual, Global jungle steal, base ult and Global recall Ult
+
+## Orianna
+- Q, W, E Usage Combo, Harass, Lane/Jungle clear and killsteal
+- Auto R usage with hit count slider
+- Setup R using Q or E
+- Setup R with E detects dashes and follows
 
 ## Fiora
 - Q usage on Vitals
