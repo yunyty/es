@@ -1,4 +1,4 @@
-# kAIO Version 1.0.0.6
+# kAIO Version 1.0.0.7
 
 ## Discord
 - https://discord.gg/awjPwkTjAN
@@ -77,6 +77,7 @@
 - Ward and Traps tracker, tracks (Teemo R, Shaco W, Jhin E, Cait W)
 - Turrets Range Draw
 - Orbwalker Stutter Fix
+- Faster Orbwalker AA Cancel
 - Skin Hack
 - Base Ult
 - Kite Helper (Ranged Champions)
