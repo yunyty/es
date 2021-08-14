@@ -1,4 +1,4 @@
-# kAIO Version 1.0.0.13
+# kAIO Version 1.0.1.0
 
 ## Discord
 - https://discord.gg/awjPwkTjAN
@@ -78,6 +78,16 @@
 - W Usage, Combo, Harass, Lane Clear and Jungle Clear
 - R Usage, Combo, Semi-Manual AoE, and Before Expire
 - Posses Champions Logic (Supports Most Champions)
+
+## Syndra
+- Q Usage (AoE/Single), Combo, Harass, Last Hit, Lane Clear, Jungle Clear, Jungle Steal and Killsteal
+- Q > E Usage, Combo and Killsteal
+- W Usage, Combo
+- W > E Usage, Combo
+- E Usage, Combo and Killsteal
+- R Execute Targets
+- Q > R Execute Targets
+- Drawings
 
 ## Utilities
 - Ward and Traps tracker, tracks (Teemo R, Shaco W, Jhin E, Cait W)
