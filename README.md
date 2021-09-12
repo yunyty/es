@@ -1,4 +1,4 @@
-# kAIO Version 1.0.1.1
+# kAIO Version 1.0.1.2
 
 ## Discord
 - https://discord.gg/awjPwkTjAN
@@ -87,6 +87,13 @@
 - E Usage, Combo and Killsteal
 - R Execute Targets
 - Q > R Execute Targets
+- Drawings
+
+## Qiyana
+- Q Usage, Elements usage, Combo, Harass, Killsteal
+- W Elements pick and Element mixing logic
+- E Combo, E > R Logic
+- R Target to Walls/Buildings logic
 - Drawings
 
 ## Utilities
