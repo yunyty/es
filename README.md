@@ -3,6 +3,32 @@
 ## Discord
 - https://discord.gg/awjPwkTjAN
 
+# About kAIO
+## kAIO has awesome features
+kAIO comes with plugins that suits everyone's needs.
+
+## Long History of quality control
+kAIO has remained strong and running for 7+ years, since league 4.19 patch until today, consistant with updates and fixes
+
+## Perfect tasks Management
+All champion and utility plugins use a custom algorithm to help keep perfect track of all activities without lowering your Frame Rate
+
+## Always Up-to-date
+kAIO is always updated with latest league changes and comaptiable with all future league and ensoul updates
+
+## Avaliable for everyone
+kAIO is commited to remain free to use for everyone, with a paid version that targets people that want to get the most of kAIO features!
+
+## Customiziations
+All plugins that come with kAIO can be customized to your liking! No hardcoded features nonsense!
+
+## 100+ Plugins Supported
+We are commited to bring the newest and freshes league plugins that are unique and hand written to suit everyone needs
+
+## Continuous support
+As long as kAIO is alive, we are commited to provide support to it's users!
+
+# Plugins
 ## Yone
 - Auto R if can hit X Champions
 - Q Usage AoE/Single prediction (Combo/Harass)
@@ -77,7 +103,7 @@
 - Q Usage, Combo, Harass, Lane Clear and Jungle Clear
 - W Usage, Combo, Harass, Lane Clear and Jungle Clear
 - R Usage, Combo, Semi-Manual AoE, and Before Expire
-- Posses Champions Logic (Supports Most Champions)
+- Posses Champions Logic (Supports 99% of Champions)
 
 ## Syndra
 - Q Usage (AoE/Single), Combo, Harass, Last Hit, Lane Clear, Jungle Clear, Jungle Steal and Killsteal
@@ -97,13 +123,13 @@
 - Drawings
 
 ## Utilities
-- Ward and Traps tracker, tracks (Teemo R, Shaco W, Jhin E, Cait W)
+- Ward and Traps tracker (Teemo R, Shaco W, Jhin E, Cait W)
 - Turrets Range Draw
 - Orbwalker Stutter Fix
 - Faster Orbwalker AA Cancel
-- Skin Hack
-- Base Ult
+- Skin Changer with all skins by Name!
+- Perfecet Base Ult
 - Kite Helper (Ranged Champions)
 - Orbwalker Magnet (Melee Champions)
-- FoW Tracker
+- Map Exploit, See your Enemies at all times (Works on certian conditions)
 - Juke Tracker (Shaco Q, Flash)
