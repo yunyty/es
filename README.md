@@ -1,4 +1,4 @@
-# kAIO Version 1.0.1.4
+# kAIO Version 1.0.2.0
 
 ## Discord
 - https://discord.gg/awjPwkTjAN
@@ -122,6 +122,27 @@ As long as kAIO is alive, we are commited to provide support to it's users!
 - R Target to Walls/Buildings logic
 - Drawings
 
+## Kayle
+- Q Usage, Collision Logic (Extended) Combo, Harass, Lane/Jungle clear and KS
+- W Heal self & allies(See Auto Shield Plugin) + flee
+- E Combo After combo fast Reset, Combo, Harass, Lane/Jungle
+- R Savior self & allies(See Auto Shield Plugin)
+- Drawings
+
+## Lulu
+- Q Usage, Includes Pix prediction, Combo, Harass, Lane/Jungle clear and KS
+- W Interrupter, Anti-gapcloser and flee
+- E on targets and E > Q Combo, Harass
+- R Savior self & allies(See Auto Shield Plugin)
+- Drawings
+
+## Viktor
+- Q Usage, Combo, Harass, Lane/Jungle clear, flee and KS
+- W Interrupter and Anti-gapcloser
+- E Extended in Combo, Harass, Lane/Jungle and KS
+- R AoE and Auto Follow
+- Drawings
+
 ## Utilities
 - Ward and Traps tracker (Teemo R, Shaco W, Jhin E, Cait W)
 - Turrets Range Draw
@@ -133,3 +154,4 @@ As long as kAIO is alive, we are commited to provide support to it's users!
 - Orbwalker Magnet (Melee Champions)
 - Map Exploit, See your Enemies at all times (Works on certian conditions)
 - Juke Tracker (Shaco Q, Flash)
+- Auto Shield, Supports almost all champions with Shields and Heals in the game
