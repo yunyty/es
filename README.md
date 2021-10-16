@@ -54,6 +54,12 @@ As long as kAIO is alive, we are commited to provide support to it's users!
 - Spell Leveling
 - Custom Target Selector
 
+## Irelia
+- Q usage, Gapclose, Killsteal, Flee and Healing
+- W Spell Block
+- E For AoE and Single Targets
+- R AoE Usage (Triangular custom prediction)
+
 ## Ezreal
 - Q Usage, Combo, Harass, Lane Clear, Jungle Clear and Killsteal
 - W Usage, Combo, Harass, Structures and Jungle Clear
@@ -153,5 +159,5 @@ As long as kAIO is alive, we are commited to provide support to it's users!
 - Kite Helper (Ranged Champions)
 - Orbwalker Magnet (Melee Champions)
 - Map Exploit, See your Enemies at all times (Works on certian conditions)
-- Juke Tracker (Shaco Q, Flash)
+- Juke Tracker (Shaco Q, Ezreal E, Flash)
 - Auto Shield, Supports almost all champions with Shields and Heals in the game
