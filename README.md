@@ -1,32 +1,8 @@
-# kAIO Version 1.0.2.0
+# kAIO Version 1.11.21.1
 
 ## Discord
 - https://discord.gg/awjPwkTjAN
 
-# About kAIO
-## kAIO has awesome features
-kAIO comes with plugins that suits everyone's needs.
-
-## Long History of quality control
-kAIO has remained strong and running for 7+ years, since league 4.19 patch until today, consistant with updates and fixes
-
-## Perfect tasks Management
-All champion and utility plugins use a custom algorithm to help keep perfect track of all activities without lowering your Frame Rate
-
-## Always Up-to-date
-kAIO is always updated with latest league changes and comaptiable with all future league and ensoul updates
-
-## Avaliable for everyone
-kAIO is commited to remain free to use for everyone, with a paid version that targets people that want to get the most of kAIO features!
-
-## Customiziations
-All plugins that come with kAIO can be customized to your liking! No hardcoded features nonsense!
-
-## 100+ Plugins Supported
-We are commited to bring the newest and freshes league plugins that are unique and hand written to suit everyone needs
-
-## Continuous support
-As long as kAIO is alive, we are commited to provide support to it's users!
 
 # Plugins
 ## Yone
@@ -60,6 +36,26 @@ As long as kAIO is alive, we are commited to provide support to it's users!
 - E For AoE and Single Targets
 - R AoE Usage (Triangular custom prediction)
 
+## Fiora
+- Q usage on Vitals
+- W Block almost all skills in game from FoW (Empowered AA, Skillshots, Buffs etc)
+- E Fast AA Reset
+- R Semi-Manual (Press R for script to auto pick best target)
+- Orbwalk to vitals
+- Overrides Orbwalker Target for best Damage Output
+- Smart Harass Under Turret
+
+## Samira
+- Use Q (Gun & Sword)
+- Use Q During E Dash
+- Use Q After Attack
+- Use Q Before Attack
+- Use W (Block Skillshots & Missiles)
+- Use E Smart (Check turret & Skillshot)
+- Use R (Combo / AoE)
+- Use Passive on Targets
+- Combo, Harass, Lane Clear, Jungle Clear, Last Hit, Killsteal
+
 ## Ezreal
 - Q Usage, Combo, Harass, Lane Clear, Jungle Clear and Killsteal
 - W Usage, Combo, Harass, Structures and Jungle Clear
@@ -71,15 +67,6 @@ As long as kAIO is alive, we are commited to provide support to it's users!
 - Auto R usage with hit count slider
 - Setup R using Q or E
 - Setup R with E detects dashes and follows
-
-## Fiora
-- Q usage on Vitals
-- W Block almost all skills in game from FoW (Empowered AA, Skillshots, Buffs etc)
-- E Fast AA Reset
-- R Semi-Manual (Press R for script to auto pick best target)
-- Orbwalk to vitals
-- Overrides Orbwalker Target for best Damage Output
-- Smart Harass Under Turret
 
 ## Swain
 - Q AoE usage
