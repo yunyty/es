@@ -1,4 +1,4 @@
-# kAIO Version 1.11.21.2
+# kAIO Version 1.11.22.1
 
 ## Discord
 - https://discord.gg/awjPwkTjAN
@@ -35,6 +35,11 @@
 - W Spell Block
 - E For AoE and Single Targets
 - R AoE Usage (Triangular custom prediction)
+
+## Kaisa
+- Q usage, Combo, Harass, Lane/Jungle clear, Killsteal
+- W usage, Combo, Harass, Lane/Jungle clear, Killsteal
+- E Anti-Gapcloser & Anti-Melee
 
 ## Fiora
 - Q usage on Vitals
@@ -108,6 +113,14 @@
 - Q > R Execute Targets
 - Drawings
 
+## Twitch
+- Q Usage on Recall
+- W AoE (Combo, Harass, Lane/Jungle Clear)
+- E on Target Flee
+- E Usage, Combo, harass and Killsteal
+- E Secure Dragon/Baron/jungle
+- Drawings
+
 ## Qiyana
 - Q Usage, Elements usage, Combo, Harass, Killsteal
 - W Elements pick and Element mixing logic
@@ -148,3 +161,5 @@
 - Map Exploit, See your Enemies at all times (Works on certian conditions)
 - Juke Tracker (Shaco Q, Ezreal E, Flash)
 - Auto Shield, Supports almost all champions with Shields and Heals in the game
+- Auto Potion
+- Gold Tracker
