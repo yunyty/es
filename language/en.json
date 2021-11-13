@@ -464,5 +464,21 @@
   "Use if HealthPercnet <= X": "Use if HealthPercnet <= X",
   "Use Lane Clear, Hit X minions": "Use Lane Clear, Hit X minions",
   "Use Jungle Clear": "Use Jungle Clear",
-  "Fast Q Bug": "Fast Q Bug"
+  "Fast Q Bug": "Fast Q Bug",
+  "Q - Piltover Peacemaker": "Q - Piltover Peacemaker",
+  "Ignore Minion Collision": "Ignore Minion Collision",
+  "W - Yordle Snap Trap": "W - Yordle Snap Trap",
+  "^ Min Stack > x": "^ Min Stack > x",
+  "E - 90 Caliber Net": "E - 90 Caliber Net",
+  "Use E Double Headshot": "Use E Double Headshot",
+  "R - Ace in the Hole": "R - Ace in the Hole",
+  "Use Q After Attack, Above Mana%": "Use Q After Attack, Above Mana%",
+  "Hit x Minions": "Hit x Minions",
+  "Auto W Teleports, above Mana%": "Auto W Teleports, above Mana%",
+  "R (Mini Map)": "R (Mini Map)",
+  "W - Blade Whirl": "W - Blade Whirl",
+  "Use W During E Dash": "Use W During E Dash",
+  "Save 1 Stack for Baron/Dragon": "Save 1 Stack for Baron/Dragon",
+  "Smite Jungle": "Smite Jungle",
+  "Smite Heros(KS)": "Smite Heros(KS)"
 }

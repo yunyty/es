@@ -41,6 +41,12 @@
 - W usage, Combo, Harass, Lane/Jungle clear, Killsteal
 - E Anti-Gapcloser & Anti-Melee
 
+## Caitlyn
+- Q usage, Combo, Harass, Lane/Jungle clear, Killsteal
+- W usage, Combo, Interrupter, Anti-Gapcloser, On Immobile
+- E Anti-Gapcloser & Anti-Melee
+- R Combo, Killsteal
+
 ## Fiora
 - Q usage on Vitals
 - W Block almost all skills in game from FoW (Empowered AA, Skillshots, Buffs etc)
@@ -144,7 +150,7 @@
 
 ## Viktor
 - Q Usage, Combo, Harass, Lane/Jungle clear, flee and KS
-- W Interrupter and Anti-gapcloser
+- W Combo AoE, Interrupter and Anti-gapcloser
 - E Extended in Combo, Harass, Lane/Jungle and KS
 - R AoE and Auto Follow
 - Drawings
@@ -163,3 +169,4 @@
 - Auto Shield, Supports almost all champions with Shields and Heals in the game
 - Auto Potion
 - Gold Tracker
+- Summoner Spells Ping (Pings enemy summoner spell on cast)
