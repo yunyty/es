@@ -1,4 +1,4 @@
-# kAIO Version 1.11.23.1
+# kAIO Version 1.11.23.3
 
 ## Discord
 - https://discord.gg/awjPwkTjAN
@@ -40,6 +40,12 @@
 - Q usage, Combo, Harass, Lane/Jungle clear, Killsteal
 - W usage, Combo, Harass, Lane/Jungle clear, Killsteal
 - E Anti-Gapcloser & Anti-Melee
+
+## Kayn
+- Q usage, Combo, Lane/Jungle clear
+- W usage, Combo, Harass, Lane/Jungle clear
+- R Usage Execute
+- Supports all forms
 
 ## Caitlyn
 - Q usage, Combo, Harass, Lane/Jungle clear, Killsteal
@@ -170,3 +176,7 @@
 - Auto Potion
 - Gold Tracker
 - Summoner Spells Ping (Pings enemy summoner spell on cast)
+- Cooldown Tracker
+- Jungler Timers
+- Auto Lantern
+- Auto Ward
