@@ -1,4 +1,4 @@
-# kAIO Version 1.11.24.1
+# kAIO Version 1.11.24.2
 
 ## Discord
 - https://discord.gg/awjPwkTjAN
@@ -51,6 +51,12 @@
 - Q usage, Combo, Harass, Lane/Jungle clear, Killsteal
 - W usage, Combo, Interrupter, Anti-Gapcloser, On Immobile
 - E Anti-Gapcloser & Anti-Melee
+- R Combo, Killsteal
+
+## Graves
+- Q usage, Combo, Harass, Lane/Jungle clear, Killsteal
+- W usage, Combo
+- E Fast
 - R Combo, Killsteal
 
 ## Fiora
