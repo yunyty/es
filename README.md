@@ -1,4 +1,4 @@
-# kAIO Version 1.11.24.7
+# kAIO Version 1.12.1.1
 
 ## Discord
 - https://discord.gg/awjPwkTjAN
@@ -78,6 +78,22 @@
 - Use R (Combo / AoE)
 - Use Passive on Targets
 - Combo, Harass, Lane Clear, Jungle Clear, Last Hit, Killsteal
+
+## Sion
+- Use Q (With dash/Escape detection)
+- Use E Push minions to enemies
+- Use R Exploit (Lock on target, follow mouse)
+
+## Jhin
+- Use Q Fast After Attack
+- Use W Snare targets
+- Use E On immobile targets
+- Use R with accurate prediction
+
+## Teemo
+- Use Q with custom target selection
+- Advanced Shrooms tracker with in game statistics
+- Use W Flee Mode
 
 ## Ezreal
 - Q Usage, Combo, Harass, Lane Clear, Jungle Clear and Killsteal
@@ -186,3 +202,5 @@
 - Jungler Timers
 - Auto Lantern
 - Auto Ward
+- Summoner Spells (Heal, Barrier, Exhaust, Smite, Snow Ball)
+[ Supports Offense Items
