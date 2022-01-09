@@ -1,4 +1,4 @@
-# kAIO Version 1.12.1.1
+# kAIO Version 1.12.1.2
 
 ## Discord
 - https://discord.gg/awjPwkTjAN
@@ -181,6 +181,13 @@
 - W Combo AoE, Interrupter and Anti-gapcloser
 - E Extended in Combo, Harass, Lane/Jungle and KS
 - R AoE and Auto Follow
+- Drawings
+
+## Anivia
+- Q Usage, Combo, Harass, Lane clear
+- W Interrupter
+- E Combo, Harass, Lane clear and KS
+- R Usage
 - Drawings
 
 ## Utilities
