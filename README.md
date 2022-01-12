@@ -191,23 +191,28 @@
 - Drawings
 
 ## Utilities
-- Ward and Traps tracker (Teemo R, Shaco W, Jhin E, Cait W)
+- Custom Target Selector
+- Custom Spell Detector
+- Custom Awareness
+- Custom Activator (Supports Offense Items)
+- Custom Auto Leveling
+- Map Exploit, See your Enemies at all times (Works on certian conditions)
+- Gold Tracker
+- Perfect Base Ult
+- Summoner Spells (Heal, Barrier, Exhaust, Smite, Snow Ball)
+- Wards and Traps tracker (Teemo R, Shaco W, Jhin E, Cait W)
+- Ping Enemy Placed Wards
+- Auto Lantern
+- Summoner Spells Ping (Pings enemy summoner spell on cast)
+- Auto Shield, Supports almost all champions with Shields and Heals in the game
 - Turrets Range Draw
 - Orbwalker Stutter Fix
 - Faster Orbwalker AA Cancel
 - Skin Changer with all skins by Name!
-- Perfecet Base Ult
 - Kite Helper (Ranged Champions)
 - Orbwalker Magnet (Melee Champions)
-- Map Exploit, See your Enemies at all times (Works on certian conditions)
 - Juke Tracker (Shaco Q, Ezreal E, Flash)
-- Auto Shield, Supports almost all champions with Shields and Heals in the game
 - Auto Potion
-- Gold Tracker
-- Summoner Spells Ping (Pings enemy summoner spell on cast)
 - Cooldown Tracker
 - Jungler Timers
-- Auto Lantern
 - Auto Ward
-- Summoner Spells (Heal, Barrier, Exhaust, Smite, Snow Ball)
-[ Supports Offense Items

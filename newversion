@@ -1,0 +1,15 @@
+1.12.1.3
+- Added Champion Jinx
+- Added Champion Lux
+- Added Champion Zeri
+- Added Check for updates feature
+- Improved Anivia place/remove R
+- Added Sion save R overkill check
+- Improved Sion Q checks
+- Improved Sion R Handling
+- Fixed Veigo W bug in jungle clear
+- Viktor now uses new Anti-gapcloser library
+- Bug fixes and improvements to target selector
+- Rewrite to immobile tracker
+- Added Ping new wards feature (Under tracker > Placements)
+- Overall Performance improvements
