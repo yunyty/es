@@ -1,4 +1,4 @@
-# kAIO Version 1.12.1.2
+# kAIO Version 1.12.1.3
 
 ## Discord
 - https://discord.gg/awjPwkTjAN
@@ -36,6 +36,12 @@
 - E For AoE and Single Targets
 - R AoE Usage (Triangular custom prediction)
 
+## Zeri
+- Q usage, Combo, Harass Killsteal
+- W usage, Combo, Harass, Killsteal, Wall checks
+- E Reset
+- R AoE Usage / Combo usage
+
 ## Kaisa
 - Q usage, Combo, Harass, Lane/Jungle clear, Killsteal
 - W usage, Combo, Harass, Lane/Jungle clear, Killsteal
@@ -52,6 +58,12 @@
 - W usage, Combo, Interrupter, Anti-Gapcloser, On Immobile
 - E Anti-Gapcloser & Anti-Melee
 - R Combo, Killsteal
+
+## Jinx
+- Q usage, Combo, Harass, Lane/Jungle clear
+- W usage, Combo, Harass, Lane/Jungle clear
+- E usage, Combo, Interrupter, Anti-Gapcloser, On Immobile
+- R Combo, Killsteal, Jungle Steal
 
 ## Graves
 - Q usage, Combo, Harass, Lane/Jungle clear, Killsteal
@@ -174,6 +186,13 @@
 - W Interrupter, Anti-gapcloser and flee
 - E on targets and E > Q Combo, Harass
 - R Savior self & allies(See Auto Shield Plugin)
+- Drawings
+
+## Lux
+- Q Usage, Combo, Harass, Lane/Jungle clear and KS
+- W Auto Shield
+- E Usage, Combo, Harass, Lane/Jungle clear and KS
+- R AoE, Fast Combo ( Q > E > R), Jungle Steal
 - Drawings
 
 ## Viktor
