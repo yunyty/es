@@ -42,6 +42,13 @@
 - E Reset
 - R AoE Usage / Combo usage
 
+## Jayce
+- Fast E > Q Combo
+- Auto switch between Hammer and Cannon mode
+- E Anti-Gapcloser & Interrupter
+- Fast W AA reset
+- Lane and jungle clear
+
 ## Kaisa
 - Q usage, Combo, Harass, Lane/Jungle clear, Killsteal
 - W usage, Combo, Harass, Lane/Jungle clear, Killsteal
