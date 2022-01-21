@@ -1,8 +1,11 @@
-1.12.1.4
-- Added Champion Jayce
-- Added Custom Global Target Selector
-- Improved Jinx Q, now more stable
-- Added Semi R Key for Jinx R
-- Updated Yone R, now more accurate
-- Spell range editing have been increased for all champions
-- Improved Performance on many plugins
+1.12.2.1
+- Added Jayce Semi Manual EQ key
+- Jayce will switch form more often now
+- Fixed Jinx switch to rocket when target in Mini gun range
+- Updated Samira Damage values
+- Viego now supports jayce
+- Update Yone Damage values
+- Zeri now is fully supported
+- Added Combo key for Exhaust
+- Fixed padding for Zeri on Cooldown tracker
+- Updated skin database to 12.2

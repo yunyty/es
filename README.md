@@ -1,4 +1,4 @@
-# kAIO Version 1.12.1.3
+# kAIO Version 1.12.2.1
 
 ## Discord
 - https://discord.gg/awjPwkTjAN
