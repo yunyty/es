@@ -1,16 +1,16 @@
-1.12.2.2
-- Added option to ping summoner spell caster location
-- Auto Shield will now prefer using R when the incoming damage is high
-- Built-in targets cache will now refresh when a targets becomes invalid (reconnect)
-- Added Zeri E Flee mode
-- Added Zeri Disable AA Above certain level
-- Added Zeri E Glide locations (from base)
-- Fixed Zeri Q Delay
-- Fixed Zeri W Walls now works fully
-- Added Kayn Q Flee
-- Added Jinx E Anti-Catapult for URF
-- Added Jayce Flee mode (E Cannon, R)
-- Added Jayce E > Q To mouse
-- Now Jayce Places E to Side on E > Q Combo
-- Added Ezreal Flee E
-- Damage Detector now includes turret and minions damage
+1.12.3.1
+- Added PGS (Ping Queue System), this will prevent mass spam hud/map pings
+- Improved Performance on Cooldown Tracker Drawings
+- Updated Heal default values
+- Removed Fast AA Cancel option temporarily
+- Added Ignite to Auto Cleanse
+- Now Auto Cleanse spells checks Health% rather than Mana%
+- Added Invalid debuff checks to Auto Cleanse (Camilie R)
+- Improved Zeri
+- Updated Qiyana Long Q values
+- Added Qiyana Long Q skill modifier
+- Updated Jhin R Damage
+- Updated Jayce Q & EQ values
+- Added Minion cache system, now this should help prevent overkill on minions
+- Fixed issue with on damage event invoking with only minions/turrets damage
+- Fixed long game freeze when reloading game too fast
