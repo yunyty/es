@@ -1,16 +1,4 @@
-1.12.3.1
-- Added PGS (Ping Queue System), this will prevent mass spam hud/map pings
-- Improved Performance on Cooldown Tracker Drawings
-- Updated Heal default values
-- Removed Fast AA Cancel option temporarily
-- Added Ignite to Auto Cleanse
-- Now Auto Cleanse spells checks Health% rather than Mana%
-- Added Invalid debuff checks to Auto Cleanse (Camilie R)
-- Improved Zeri
-- Updated Qiyana Long Q values
-- Added Qiyana Long Q skill modifier
-- Updated Jhin R Damage
-- Updated Jayce Q & EQ values
-- Added Minion cache system, now this should help prevent overkill on minions
-- Fixed issue with on damage event invoking with only minions/turrets damage
-- Fixed long game freeze when reloading game too fast
+1.12.3.2
+- Fixed Target Selector issues
+- Champion Updates
+- Performance Updates
