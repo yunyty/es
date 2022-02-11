@@ -8,5 +8,10 @@
     "CodePage": 65001,
     "Language": "Chinese",
     "FileName": "zh-CN.json"
+  },
+  {
+    "CodePage": 1258,
+    "Language": "Vietnamese",
+    "FileName": "vi-VN.json"
   }
 ]
