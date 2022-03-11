@@ -1,4 +1,4 @@
-# kAIO Version 1.12.4.4
+# kAIO Version 1.12.5.1
 
 ## Discord
 - https://discord.gg/awjPwkTjAN
@@ -35,6 +35,8 @@
 - W Spell Block
 - E For AoE and Single Targets
 - R AoE Usage (Triangular custom prediction)
+
+## Gangplank
 
 ## Zeri
 - Q usage, Combo, Harass Killsteal
